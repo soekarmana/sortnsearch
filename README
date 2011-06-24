@@ -1,0 +1,6 @@
+Program sorting & searching sederhana
+yang memiliki fitur multiplatform
+
+telah diuji dan berjalan di platform sbb:
+1. win32 + borland c++
+2. linux + gcc
